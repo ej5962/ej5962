@@ -1,6 +1,8 @@
 <h1>Hi, I'm Jane!</h1>
 
 <h2>👨‍💻 Class projects</h2>
+- <b> Humanoid Hand </b>
+  - [Hand Images](https://github.com/ej5962/Portfolio.git)
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
