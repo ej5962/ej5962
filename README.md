@@ -3,10 +3,6 @@
 Engineering student interested in **robotics, autonomous systems, embedded systems, and software development**.
 
 ---
-<table>
-<tr>
-
-<td width="70%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -21,34 +17,41 @@ I'm currently working on projects involving:
 - 💻 Software development
 - 🧮 Control systems
 
-</td>
-
-<td width="30%" valign="top">
 
 ## 🛠️ Technologies
 
-### Programming
+<table >
+<tr>
+<td width="100%" valign="top">
+
+#### Programming
+
 - Python
 - Java
 - C/C++
 
-### Robotics
+#### Robotics
+
 - ROS 2
 - Gazebo
 - URDF / SDF
 
-### Tools & Platforms
+</td>
+
+<td width="70%" valign="top">
+
+#### Tools & Platforms
+
 - Git / GitHub
 - Linux / Ubuntu
 - WSL
 - VS Code
+- MATLAB
+- SIMULINK
 
 </td>
-
 </tr>
 </table>
-
-
 ---
 
 # 📂 Projects
