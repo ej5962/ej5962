@@ -20,9 +20,11 @@ I'm currently working on projects involving:
 
 ## 🛠️ Technologies
 
-<table >
+<table width="100%">
+	
 <tr>
-<td width="100%" valign="top">
+	
+<td width="50%" valign="top">
 
 #### Programming
 
@@ -38,7 +40,7 @@ I'm currently working on projects involving:
 
 </td>
 
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
 #### Tools & Platforms
 
@@ -50,8 +52,11 @@ I'm currently working on projects involving:
 - SIMULINK
 
 </td>
+
 </tr>
+
 </table>
+
 ---
 
 # 📂 Projects
