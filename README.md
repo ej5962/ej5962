@@ -1,18 +1,117 @@
-<h1>Hi, I'm Jane!</h1>
+# 👋 Hi, I'm Jane
 
-<h2>👨‍💻 Class projects</h2>
-- <b> Humanoid Hand </b>
-  - [Hand Images](https://github.com/ej5962/Portfolio.git)
-- <b> Car Keys button </b>
-  - [Hand Images](https://github.com/ej5962/Portfolio.git)
-- <b> Amusement Ride </b>
-  - [Hand Images](https://github.com/ej5962/Portfolio.git)
-- <b> Speaker Design </b>
-  - [Hand Images](https://github.com/ej5962/Portfolio.git)
+Engineering student interested in **robotics, autonomous systems, embedded systems, and software development**.
 
-<!-- <h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🚀 About Me
 
+I'm currently developing projects across:
 
-[linkedin]: https://linkedin.com -->
+- 🤖 Robotics and autonomous systems
+- 🐧 ROS 2 and Linux
+- 📡 Sensors and IMU processing
+- 💻 Software development
+- 🔧 Embedded systems
+- 🧮 Control systems and data processing
+
+---
+
+## 🛠️ Technologies
+
+### Programming
+- Python
+- Java
+- C/C++
+- MATLAB
+
+### Robotics
+- ROS 2
+- Gazebo
+- URDF / SDF
+
+### Tools & Platforms
+- Git / GitHub
+- Linux / Ubuntu
+- WSL
+- VS Code
+
+---
+
+# 📂 Projects
+
+## 🤖 ROS 2 IMU Processing
+
+**Technologies:** ROS 2, Python, IMU, Linux
+
+A project focused on receiving, recording, calibrating, processing, and visualising IMU data using ROS 2.
+
+### Key Features
+
+- IMU data acquisition
+- ROS 2 publishers and subscribers
+- Sensor calibration
+- ROS 2 bag recording
+- Data visualisation
+- Heading estimation
+
+🔗 **[View Project](https://github.com/YOUR-USERNAME/ros2-imu-processing)**
+
+---
+
+## 🚗 Three-Cart Gazebo Simulation
+
+**Technologies:** ROS 2, Gazebo, URDF / SDF
+
+A simulation project involving a three-cart system developed in Gazebo.
+
+### Key Features
+
+- Robot modelling
+- Gazebo simulation
+- ROS 2 integration
+- Motion control
+- Simulation testing
+
+🔗 **[View Project](https://github.com/YOUR-USERNAME/three-cart-gazebo)**
+
+---
+
+## 🎬 Streaming Application
+
+**Technologies:** Java
+
+A Java-based streaming application developed using object-oriented programming principles.
+
+### Key Features
+
+- User management
+- Registered devices
+- Movie browsing
+- Genre selection
+- Watchlists
+- Watch history
+- Device switching
+- Interactive console menus
+
+🔗 **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
+
+---
+
+# 📚 Currently Learning
+
+- ROS 2 development
+- Sensor calibration and filtering
+- Autonomous robotics
+- Embedded systems
+- Control systems
+- Git and GitHub
+- Software engineering
+
+---
+
+# 📫 Contact
+
+- **GitHub:** [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- **LinkedIn:** [Your LinkedIn](YOUR-LINKEDIN-LINK)
+- **Email:** YOUR-EMAIL
