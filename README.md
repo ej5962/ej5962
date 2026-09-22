@@ -3,19 +3,27 @@
 Engineering student interested in **robotics, autonomous systems, embedded systems, and software development**.
 
 ---
+<table>
+<tr>
 
-## 🚀 About Me
+<td width="70%" valign="top">
 
-I'm currently developing projects across:
+## 👨‍💻 About Me
 
-- 🤖 Robotics and autonomous systems
-- 🐧 ROS 2 and Linux
+I'm an engineering student interested in developing practical systems that combine software, hardware, and robotics.
+
+I'm currently working on projects involving:
+
+- 🤖 Robotics
 - 📡 Sensors and IMU processing
-- 💻 Software development
+- 🐧 ROS 2 and Linux
 - 🔧 Embedded systems
-- 🧮 Control systems and data processing
+- 💻 Software development
+- 🧮 Control systems
 
----
+</td>
+
+<td width="30%" valign="top">
 
 ## 🛠️ Technologies
 
@@ -23,7 +31,6 @@ I'm currently developing projects across:
 - Python
 - Java
 - C/C++
-- MATLAB
 
 ### Robotics
 - ROS 2
@@ -36,6 +43,12 @@ I'm currently developing projects across:
 - WSL
 - VS Code
 
+</td>
+
+</tr>
+</table>
+
+
 ---
 
 # 📂 Projects
@@ -46,14 +59,20 @@ I'm currently developing projects across:
 
 A project focused on receiving, recording, calibrating, processing, and visualising IMU data using ROS 2.
 
-### Key Features
+#### Key Features
 
+<table>
+<tr>
+<td width="50%" valign="top">
 - IMU data acquisition
 - ROS 2 publishers and subscribers
 - Sensor calibration
+</td>
+<td width="50%" valign="top">
 - ROS 2 bag recording
 - Data visualisation
 - Heading estimation
+</td>
 
 🔗 **[View Project](https://github.com/YOUR-USERNAME/ros2-imu-processing)**
 
