@@ -57,7 +57,7 @@ A project focused on receiving, recording, calibrating, processing, and visualis
 - Sensor calibration
 - Heading estimation
   
-🔗 **[View Project](https://github.com/YOUR-USERNAME/ros2-imu-processing)**
+🔗 **[View Project](https://github.com/ej5962/Capstone)**
 
 ---
 
