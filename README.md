@@ -13,33 +13,40 @@ I'm currently working on projects involving:
 - 💻 Software development
 - 🧮 Control systems
 
+<h2>🛠️ Technologies</h2>
 
-## 🛠️ Technologies
-#### Programming
-
-- Python
-- Java
-- C/C++
-- MATLAB
-
-#### Robotics
-
-- ROS 2
-- Gazebo
-- URDF / SDF
-
-#### Tools & Platforms
-
-- Git / GitHub
-- Linux / Ubuntu
-- WSL
-- VS Code
+<table>
+  <tr>
+    <td><b>Programming</b></td>
+    <td><b>Robotics</b></td>
+    <td><b>Tools & Platforms</b></td>
+  </tr>
+  <tr>
+    <td>
+      Python<br>
+      Java<br>
+      C / C++<br>
+      MATLAB
+    </td>
+    <td>
+      ROS 2<br>
+      Gazebo<br>
+      URDF / SDF
+    </td>
+    <td>
+      Git / GitHub<br>
+      Linux / Ubuntu<br>
+      WSL<br>
+      VS Code
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 📂 Projects
 
-## 🤖 ROS 2 IMU Processing
+## 🤖 ROS 2 IMU Processing (Ongoing)
 
 **Technologies:** ROS 2, Python, IMU, Linux
 A project focused on receiving, recording, calibrating, processing, and visualising IMU data using ROS 2.
@@ -48,9 +55,8 @@ A project focused on receiving, recording, calibrating, processing, and visualis
 - IMU data acquisition
 - ROS 2 publishers and subscribers
 - Sensor calibration
-- ROS 2 bag recording
-- Data visualisation
 - Heading estimation
+  
 🔗 **[View Project](https://github.com/YOUR-USERNAME/ros2-imu-processing)**
 
 ---
@@ -64,36 +70,30 @@ CAD robotic hand and early stage software design with ESP32 C3 mini + Arduino co
 - CAD onshape
 - Motor integration
 - Simple embedded code for motor control
+  
 🔗 **[View Project](https://github.com/YOUR-USERNAME/three-cart-gazebo)**
 
 ---
 
-## 🔑 Car Key Cap
+## 🔑 Car Key Cap + Fume Extractor (Ongoing)
 
 **Technologies:** CAD (Onshape)
 ### Key Features
-- User management
-- Registered devices
-- Movie browsing
-- Genre selection
-- Watchlists
-- Watch history
-- Device switching
-- Interactive console menus
+- CAD Onshape
 
-🔗 **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
+🔗 Car Key Cap **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
+
+🔗 Fume Extractor (Ongoing) **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
 
 ---
 
-# 📚 Currently Learning
+## ✨ Old Projects
 
-- ROS 2 development
-- Sensor calibration and filtering
-- Autonomous robotics
-- Embedded systems
-- Control systems
-- Git and GitHub
-- Software engineering
+🔗 MATLAB Gyrcoscope simulation **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
+
+🔗 Amusement Park Project **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
+
+🔗 Speaker Design **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
 
 ---
 
