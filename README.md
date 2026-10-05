@@ -83,7 +83,7 @@ CAD robotic hand and early stage software design with ESP32 C3 mini + Arduino co
 
 🔗 Car Key Cap **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
 
-🔗 Fume Extractor (Ongoing) **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
+🔗 Fume Extractor (Ongoing) **[View Project](Projects/FumeExtractor.md)**
 
 ---
 
