@@ -89,9 +89,11 @@ CAD robotic hand and early stage software design with ESP32 C3 mini + Arduino co
 
 ## ✨ Old Projects
 
+<!--
 🔗 MATLAB Gyrcoscope simulation **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
+-->
 
-🔗 Amusement Park Project **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
+🔗 Amusement Park Project **[View Project](Projects/AmusementParkRide.md)**
 
 🔗 Speaker Design **[View Project](Projects/SpeakerDesign.md)**
 
