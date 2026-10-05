@@ -96,9 +96,11 @@ CAD robotic hand and early stage software design with ESP32 C3 mini + Arduino co
 🔗 Speaker Design **[View Project](Projects/SpeakerDesign.md)**
 
 ---
-
+<!--
 # 📫 Contact
 
 - **GitHub:** [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
 - **LinkedIn:** [Your LinkedIn](YOUR-LINKEDIN-LINK)
 - **Email:** YOUR-EMAIL
+
+-->
