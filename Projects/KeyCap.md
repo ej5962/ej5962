@@ -8,7 +8,7 @@ Previous keycaps were originally rubber, installed on the lower profile of the c
 
 <div align="center">
 
-| **Before Calibration** | **After Calibration** |
+| **Before** | **After** |
 |:---:|:---:|
 | <img width="300" alt="Before Calibration" src="https://github.com/user-attachments/assets/4ea12c19-3a51-4924-87f5-826e9f7f983a" /> | <img width="300" alt="After Calibration" src="https://github.com/user-attachments/assets/c1caa9be-522e-4fbd-a513-2799bacfc693" /> |
 
