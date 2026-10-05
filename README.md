@@ -71,7 +71,7 @@ CAD robotic hand and early stage software design with ESP32 C3 mini + Arduino co
 - Motor integration
 - Simple embedded code for motor control
   
-🔗 **[View Project](https://github.com/YOUR-USERNAME/three-cart-gazebo)**
+🔗 **[View Project](https://github.com/ej5962/RoboticHand/tree/main)**
 
 ---
 
@@ -81,7 +81,7 @@ CAD robotic hand and early stage software design with ESP32 C3 mini + Arduino co
 ### Key Features
 - CAD Onshape
 
-🔗 Car Key Cap **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
+🔗 Car Key Cap **[View Project](Projects/KeyCap.md)**
 
 🔗 Fume Extractor (Ongoing) **[View Project](Projects/FumeExtractor.md)**
 
@@ -93,7 +93,7 @@ CAD robotic hand and early stage software design with ESP32 C3 mini + Arduino co
 
 🔗 Amusement Park Project **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
 
-🔗 Speaker Design **[View Project](https://github.com/YOUR-USERNAME/streaming-app)**
+🔗 Speaker Design **[View Project](Projects/SpeakerDesign.md)**
 
 ---
 
