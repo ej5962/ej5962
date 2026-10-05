@@ -20,6 +20,7 @@ I'm currently working on projects involving:
 - Python
 - Java
 - C/C++
+- MATLAB
 
 #### Robotics
 
@@ -33,8 +34,6 @@ I'm currently working on projects involving:
 - Linux / Ubuntu
 - WSL
 - VS Code
-- MATLAB
-- SIMULINK
 
 ---
 
