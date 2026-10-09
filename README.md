@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jane
+# 👋 Hi, I'm Elizabeth Jane
 
 Engineering student interested in **robotics, autonomous systems, embedded systems, and software development**.
 ---
