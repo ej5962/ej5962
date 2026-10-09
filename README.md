@@ -30,7 +30,7 @@ I'm currently working on projects involving:
     </td>
     <td>
       ROS 2<br>
-      Gazebo<br>
+      <!-- Gazebo<br> -->
       URDF / SDF
     </td>
     <td>
