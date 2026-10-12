@@ -31,7 +31,7 @@ I'm currently working on projects involving:
     <td>
       ROS 2<br>
       <!-- Gazebo<br> -->
-      URDF / SDF
+      <!-- URDF / SDF -->
     </td>
     <td>
       Git / GitHub<br>
