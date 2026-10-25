@@ -23,3 +23,13 @@ Current CAD Desgin
 - Additional PVC pipe with spout attachment to be as close to soldering as possible
 - Addition PVC pipe slider that attaches to window as output
 
+### Further Notes:
+Current Issues: BJT seems to overheat/heating up 
+- Use 555 Timer to reduce voltage spikes?
+- Add a heatsink to the BJT (Not reducing the power output)
+- change to a MOSFET with timer
+- NOTE: add diode to reduce voltage spikes
+  
+<img height="300" alt="FH8SiLMW" src="https://github.com/user-attachments/assets/aa1640e3-08c2-48f0-a598-75d2e193e666" />
+
+<img height="300" alt="hjvUrU4K" src="https://github.com/user-attachments/assets/be5962d5-eb75-465a-bad7-0fac730b8cd2" />
